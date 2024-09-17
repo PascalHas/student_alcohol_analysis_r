@@ -6,7 +6,7 @@ This repository contains the project work for the course "Data Analysis and Mach
 
 To run the code provided in this repository, you will need to have both R and RStudio installed on your computer. Follow the instructions below to set up your environment:
 
-### Step 1: Install R
+### Install R
 
 R is a programming language and free software environment for statistical computing and graphics.
 
@@ -14,7 +14,7 @@ R is a programming language and free software environment for statistical comput
 2. Download the appropriate installer for your operating system (Windows, macOS, or Linux).
 3. Run the installer and follow the on-screen instructions to complete the installation.
 
-### Step 2: Install RStudio
+### Install RStudio
 
 RStudio is an integrated development environment (IDE) for R.
 
