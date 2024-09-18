@@ -24,6 +24,10 @@ RStudio is an integrated development environment (IDE) for R.
 
 ## Usage
 
+### Create dataset path
+In order to use the .qmd or .r Files you need to download the dataset from [Kaggle](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data) and put it into a subfolder of the repository.
+So your structure has to look like: student_alcohol_analysis_r/dataset/student_mat.csv and student_alcohol_analysis_r/dataset/student_por.csv.
+
 ### Importing and Running the `.qmd` File
 
 The `.qmd` (Quarto Markdown) file contains the main documentation and code chunks for the analysis. Quarto is an open-source scientific and technical publishing system that allows for dynamic, reproducible documents.
