@@ -48,3 +48,11 @@ The `.r` file contains the R script necessary for the analysis. To run it:
 ## Additional Information
 
 If you encounter any issues or have questions, please feel free to reach out to me or use the RStudio community forums for support.
+
+## Feedback and Summary from Lecturer
+
+In this data analysis project, several strengths and opportunities for refinement were identified. While the topic and approach aligned well with the course scope, the analysis could benefit from clearer structure, particularly in presenting and evaluating hypotheses. The regression problem should have been introduced at the start, instead of emerging gradually.
+
+Although exploratory data analysis (EDA) techniques, such as boxplots and scatter plots, were correctly utilized, some interpretations were lacking—particularly in explaining summary statistics and justifying the initial variable selection for the model, which lacked correlation justification. Residuals and cross-validation methods were applied but required a clearer explanation for their inclusion. Repeated "summary" displays were deemed excessive, and data merging could have been visualized more effectively with intermediary plots.
+
+**Final Grade: 2.0**
